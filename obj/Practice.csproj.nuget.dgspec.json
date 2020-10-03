@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shernegi/Documents/Development.nosync/Practice/Practice.csproj": {}
+  },
+  "projects": {
+    "/Users/shernegi/Documents/Development.nosync/Practice/Practice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shernegi/Documents/Development.nosync/Practice/Practice.csproj",
+        "projectName": "Practice",
+        "projectPath": "/Users/shernegi/Documents/Development.nosync/Practice/Practice.csproj",
+        "packagesPath": "/Users/shernegi/.nuget/packages/",
+        "outputPath": "/Users/shernegi/Documents/Development.nosync/Practice/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shernegi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/shernegi/Documents/Development.nosync/Practice/bin/Debug/netcoreapp3.1/Practice.deps.json
+/Users/shernegi/Documents/Development.nosync/Practice/bin/Debug/netcoreapp3.1/Practice.runtimeconfig.json
+/Users/shernegi/Documents/Development.nosync/Practice/bin/Debug/netcoreapp3.1/Practice.runtimeconfig.dev.json
+/Users/shernegi/Documents/Development.nosync/Practice/bin/Debug/netcoreapp3.1/Practice.dll
+/Users/shernegi/Documents/Development.nosync/Practice/bin/Debug/netcoreapp3.1/Practice.pdb
+/Users/shernegi/Documents/Development.nosync/Practice/obj/Debug/netcoreapp3.1/Practice.csprojAssemblyReference.cache
+/Users/shernegi/Documents/Development.nosync/Practice/obj/Debug/netcoreapp3.1/Practice.csproj.CoreCompileInputs.cache
+/Users/shernegi/Documents/Development.nosync/Practice/obj/Debug/netcoreapp3.1/Practice.AssemblyInfoInputs.cache
+/Users/shernegi/Documents/Development.nosync/Practice/obj/Debug/netcoreapp3.1/Practice.AssemblyInfo.cs
+/Users/shernegi/Documents/Development.nosync/Practice/obj/Debug/netcoreapp3.1/Practice.dll
+/Users/shernegi/Documents/Development.nosync/Practice/obj/Debug/netcoreapp3.1/Practice.pdb
+/Users/shernegi/Documents/Development.nosync/Practice/obj/Debug/netcoreapp3.1/Practice.genruntimeconfig.cache
