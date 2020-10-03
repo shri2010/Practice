@@ -29,6 +29,17 @@ namespace Practice
             {
                 Console.WriteLine($"Found at {output}");
             }
+            output = -1;
+            output = FindAnElementUsingBinarySearch(data, elementToFind);
+            if (output == -1)
+            {
+                Console.WriteLine("Not Found");
+            }
+            else
+            {
+                Console.WriteLine($"Found at {output}");
+            }
+
             Console.ReadLine();
         }
 
@@ -56,6 +67,34 @@ namespace Practice
                 {
 
                     return i;
+                }
+            }
+            return -1;
+
+        }
+
+        private static int BinarySearch(List<int> data, int key)
+        {
+            int low = 0;
+
+            int high = data.Count;
+
+            while (low <= high)
+            {
+
+                int mid = (low + high) / 2;
+
+                if (key == data[mid])
+                {
+                    return mid;
+                }
+                else if (key < data[mid])
+                {
+                    high = mid - 1;
+                }
+                else
+                {
+                    low = mid + 1;
                 }
             }
             return -1;
